@@ -1,8 +1,8 @@
-package calculopi1a;
+package calculopi1b;
 
 import java.util.Scanner;
 
-public class CalculoPi1a {
+public class CalculoPi1b {
 
     public static void main(String[] args) {
         //Declaraciones
